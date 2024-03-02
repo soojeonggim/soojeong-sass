@@ -3,6 +3,7 @@
   min-height: 750px;
   min-width: 600px;
   background-color: $primary-color;
+  color: #000080;
 
   > * {
     padding-left: 30px;
@@ -18,6 +19,7 @@
   .shows-list {
     list-style-type: disc; 
     padding-left: 40px; 
+    margin-left:0;
   }
 
   img,
